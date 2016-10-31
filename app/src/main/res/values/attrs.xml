@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditTextPassword">
+        <attr name="showPasswordIcon" format="reference" />
+        <attr name="hidePasswordIcon" format="reference" />
+        <attr name="bgTextInputLayout" format="reference" />
+        <attr name="hintColor" format="reference" />
+    </declare-styleable>
+</resources>
